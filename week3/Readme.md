@@ -1,2 +1,3 @@
-
-###CNN Model for Plastic Waste Classification
+----------------------------------------------
+CNN Model for Plastic Waste Classification
+----------------------------------------------
