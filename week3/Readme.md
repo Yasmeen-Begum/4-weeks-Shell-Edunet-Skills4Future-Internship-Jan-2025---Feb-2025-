@@ -14,14 +14,18 @@ The dataset used for this project is the Waste Classification Data by Sashaank S
 Key Details:
 
     Total Images: 25,077
+    
         Training Data: 22,564 images (85%)
+    
         Test Data: 2,513 images (15%)
+    
     Classes: Organic and Recyclable
+    
     Purpose: To aid in automating waste management and reducing the environmental impact of improper waste disposal.
 
 Dataset Link:
 
-You can access the dataset here:![Kaggle](https://www.kaggle.com/datasets/techsash/waste-classification-data)
+You can access the dataset here:![Waste-Classification-dataset](https://www.kaggle.com/datasets/techsash/waste-classification-data)
 
 
 
