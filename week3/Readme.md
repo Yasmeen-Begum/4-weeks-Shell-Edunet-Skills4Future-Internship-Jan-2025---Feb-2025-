@@ -1,4 +1,4 @@
-CNN Model for Plastic Waste Classification
+To develop a CNN model to classify images of plastic waste into different categories
 ----------------------------------------------                              
                                                    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasmeen%20Begum-blue?logo=linkedin)](https://www.linkedin.com/in/yasmeen-begum-088830180/)
