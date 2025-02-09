@@ -1,7 +1,7 @@
 CNN Model for Plastic Waste Classification
 ----------------------------------------------
 
-                                   
+                                   --------------
                                    Yasmeen Begum
                                    -------------
 
