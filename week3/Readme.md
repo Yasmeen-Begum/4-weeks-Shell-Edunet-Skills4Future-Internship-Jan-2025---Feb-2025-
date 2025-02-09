@@ -1,5 +1,5 @@
 CNN Model for Plastic Waste Classification
 ----------------------------------------------
 ------------------------------------------------------------------------------------------------------------
-LinkedIn-https://www.linkedin.com/in/yasmeen-begum-088830180/    GitHub: https://github.com/Yasmeen-Begum
+/$ LinkedIn-https://www.linkedin.com/in/yasmeen-begum-088830180/   /$ GitHub: https://github.com/Yasmeen-Begum
 -----------------------------------------------------------------------------------------------------------
