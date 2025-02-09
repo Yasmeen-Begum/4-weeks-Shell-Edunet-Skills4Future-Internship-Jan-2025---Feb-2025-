@@ -20,6 +20,8 @@ Key Details:
     Purpose: To aid in automating waste management and reducing the environmental impact of improper waste disposal.
 
 Dataset Link:
-You can access the dataset here:https://www.kaggle.com/datasets/techsash/waste-classification-data
+
+You can access the dataset here:[![Kaggle](https://img.shields.io/badge/waste-classification-Dataset-blue?logo=kaggle)](https://www.kaggle.com/datasets/techsash/waste-classification-data)
+
 
 
